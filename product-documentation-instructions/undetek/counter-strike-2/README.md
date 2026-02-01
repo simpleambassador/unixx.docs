@@ -1,0 +1,8 @@
+---
+description: >-
+  This documentation provides all the essential information for using Undetek
+  CS2 software.
+---
+
+# 🔫 Counter-Strike 2
+
