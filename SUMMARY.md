@@ -5,7 +5,6 @@
 * [About us](README.md)
 * [Support](unixx.shop/support.md)
 * [Reviews](unixx.shop/reviews.md)
-* [Quick Links](unixx.shop/quick-links.md)
 * [Product FAQ](unixx.shop/product-faq/README.md)
   * [How to Disable Antivirus](unixx.shop/product-faq/how-to-disable-antivirus.md)
   * [Troubleshooting & Common Fixes](unixx.shop/product-faq/troubleshooting-and-common-fixes.md)
@@ -181,6 +180,7 @@
 
 ***
 
+* [Quick Links](quick-links.md)
 * [Products Not Sold Anymore](products-not-sold-anymore/README.md)
   * [🦆 Quackify](products-not-sold-anymore/quackify/README.md)
     * [🔒 Discord](products-not-sold-anymore/quackify/discord/README.md)
