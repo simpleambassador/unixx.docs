@@ -2,6 +2,7 @@
 description: >-
   If you encounter any issues with your order or have questions, our dedicated
   24/7 support team is here to help you every step of the way.
+hidden: true
 icon: headset
 ---
 

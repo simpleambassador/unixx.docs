@@ -2,6 +2,7 @@
 description: >-
   See what our customers have to say about their experience with us on
   Trustpilot — real reviews from real users!
+hidden: true
 icon: star
 ---
 
