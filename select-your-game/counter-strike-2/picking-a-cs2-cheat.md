@@ -1,8 +1,8 @@
 ---
 description: >-
-  Need Help Choosing a CS2 Cheat?  If you’re unsure which CS2 cheat you’re
-  using, check your purchase details or select a product above to view its setup
-  and installation guide.
+  Need Help Choosing the Best CS2 Cheat?  If you’re unsure which CS2 cheat
+  you’re using, check your purchase details or select a product above to view
+  its setup and installation guide.
 icon: list
 ---
 
@@ -96,6 +96,16 @@ External cheats are often the best choice if you care about account longevity an
 ### Internal CS2 Cheats (Power & Performance)
 
 Internal cheats inject into the game and **modify game memory directly**. While this can carry more risk, internals are extremely powerful and often outperform externals.
+
+**Internal cheats include:**
+
+* Memesense
+* Midnight
+* Predator
+* Xone
+* Compkiller
+* Nixware
+* Vanity
 
 **Best for:**
 
